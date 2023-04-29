@@ -56,7 +56,7 @@ def create_video():
 
 
 root = tk.Tk()
-root.title("TuneToTube")
+root.title("TunesToMP4")
 
 image_path = ""
 audio_path = ""
