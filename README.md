@@ -31,6 +31,14 @@ git clone https://github.com/pvpb0t/tunetotube.git
 pip install -r requirements.txt
 ```
 
+3. Download the ImageMagick installer from the official website: https://imagemagick.org/script/download.php
+4. Run the installer and make sure to check the "Install legacy utilities" option during the installation process. This is important for compatibility with MoviePy.
+Here is a screenshot of the option to check during installation:
+![bild](https://user-images.githubusercontent.com/74259011/235322866-759c4699-4d2c-48d4-9285-dc9d6f3eb2df.png)
+
+After installing ImageMagick, restart your Python script or application.
+
+
 ### Usage
 
 1. Run the GUI-based desktop application:
